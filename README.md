@@ -3,7 +3,7 @@
  Welcome to my Github page! 
 
 
-#### 👨🏻‍💻 About Me
+### 👨🏻‍💻 About Me
 🔭   Student
 🤔   APCS 
 ✍️   I can't code it's so hard.
