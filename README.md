@@ -4,11 +4,13 @@
 
 
 ### 👨🏻‍💻 About Me
-&bull;🔭   Student
+* 🔭   Student
+- 🤔  APCS 4/2
++ ✍️   I can't code it's so hard.
 
-&bull;   APCS 
- 
-&bull; ✍️   I can't code it's so hard.
+* 項目一
+- 項目二
++ 項目三
  
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
