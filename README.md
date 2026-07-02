@@ -4,7 +4,7 @@
 
 
 ### 👨🏻‍💻 About Me
-* 🔭  NPTU Student
+* 🔭  Student
 - 🤔  APCS 4/2
 + ✍️  I can't code it's so hard.
 
