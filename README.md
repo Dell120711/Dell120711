@@ -1,6 +1,12 @@
 
  # Hi there 👋
  Welcome to my Github page! 
+
+
+ 👨🏻‍💻 About Me
+🔭   NCYU Student
+🤔   CPE: 3/7
+✍️   I can't code it's so hard.
  
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
