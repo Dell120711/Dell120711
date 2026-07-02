@@ -4,9 +4,11 @@
 
 
 ### 👨🏻‍💻 About Me
-🔭   Student
-🤔   APCS 
-✍️   I can't code it's so hard.
+&bull;🔭   Student
+
+&bull;   APCS 
+ 
+&bull; ✍️   I can't code it's so hard.
  
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
