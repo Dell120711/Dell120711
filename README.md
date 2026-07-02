@@ -6,7 +6,7 @@
  
 ### 👨🏻‍💻 About Me
 * 🔭  Student
-- 🤔  APCS 4/2
+- 🤔  APCS 4/2 CPE
 + ✍️  I can't code it's so hard.
 
 #### :computer: Programming languages and tools: 
